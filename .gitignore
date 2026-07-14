@@ -1,3 +1,10 @@
+# Data files (kept off GitHub — too large)
+data/
+*.csv
+*.gz
+*.parquet
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
